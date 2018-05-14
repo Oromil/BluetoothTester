@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluetoothTester</string>
+
+    <string name="title_dialog">MAC-Address</string>
+    <string name="text_dialog">Enter MAC-Address of you device</string>
+    <string name="ok">Ok</string>
+</resources>
